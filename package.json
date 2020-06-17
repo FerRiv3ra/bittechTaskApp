@@ -1,0 +1,21 @@
+{
+  "name": "bittechtask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "Fernando Rivera",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.14.4",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "graphql": "^15.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.19",
+    "nodemon": "^2.0.4"
+  }
+}
